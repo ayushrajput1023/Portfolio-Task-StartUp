@@ -1,0 +1,85 @@
+body{
+  margin: 0;
+  padding: 0;
+text-align: center;
+}
+.span1{
+  color: yellow;
+}
+.top
+{
+  background-color: black;
+  color: white;
+  width: 100%;
+  height: 650px;
+}
+.insidetop{
+  left: 50%;
+  padding-top: 17rem;
+}
+.b1{
+  color: white;
+  padding: 10px;
+  border-color: white;
+}
+.navbar1{
+    border-bottom: solid skyblue 5px;
+}
+
+.d1{
+  margin-top: 30px;
+}
+.abouth2{
+  padding-top: 7rem;
+  font-size: 50px;
+}
+.aboutimg{
+  width: 50px;
+}
+hr{
+  width: 70px;
+  border-top-color:black;
+}
+.aboutdata{
+  padding-left: 5px;
+  padding-right: 5px;
+}
+.myimg{
+  border-radius: 50%;
+  width: 120px;
+}
+.leftdiv{
+  text-align: center;
+  padding: 5px;
+}
+.project{
+  padding-bottom: 120px;
+}
+.projecth2{
+  font-size: 50px;
+}
+.contact
+{
+  background-color: skyblue;
+  color: white;
+}
+.contacth2{
+  font-size: 50px;
+  padding-top: 30px;
+}
+input{
+  background-color: black;
+  color: white;
+  padding-bottom: 5px;
+}
+.lasthr{
+  width: 70px;
+  border-top-color:white;
+}
+.last1{
+  padding-bottom: 20px;
+}
+.lastimg1{
+  width: 40px;
+  padding-left: 10px;
+}
